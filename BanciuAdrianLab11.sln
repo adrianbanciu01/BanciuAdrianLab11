@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{BE871F3D-5064-4E45-8045-F958B0DEAF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanciuAdrianLab11", "BanciuAdrianLab11\BanciuAdrianLab11.csproj", "{342F85F7-1954-449E-A944-AE2549451EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE871F3D-5064-4E45-8045-F958B0DEAF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE871F3D-5064-4E45-8045-F958B0DEAF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE871F3D-5064-4E45-8045-F958B0DEAF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE871F3D-5064-4E45-8045-F958B0DEAF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342F85F7-1954-449E-A944-AE2549451EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342F85F7-1954-449E-A944-AE2549451EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342F85F7-1954-449E-A944-AE2549451EA6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{342F85F7-1954-449E-A944-AE2549451EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342F85F7-1954-449E-A944-AE2549451EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342F85F7-1954-449E-A944-AE2549451EA6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
